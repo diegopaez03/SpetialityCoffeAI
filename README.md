@@ -1,5 +1,3 @@
----
-
 ```markdown
 # ☕ Proyecto Integrador PI5 – Café de Especialidad  
 ### Integración de un LLM Open Source con un Grafo de Conocimiento (Neo4j + LangChain + FastAPI)
