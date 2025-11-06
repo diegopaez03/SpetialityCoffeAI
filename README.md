@@ -1,6 +1,3 @@
-Perfecto 👌 — antes de pasar a las pruebas, te dejo un **README.md completo y profesional** para tu proyecto **PI5 – Café de Especialidad con Neo4j + LLM + FastAPI**.
-Está listo para pegar directamente en la raíz del repositorio (`pi5-cafe/README.md`), y explica todo: contexto, instalación, estructura, uso y cómo extenderlo.
-
 ---
 
 ```markdown
